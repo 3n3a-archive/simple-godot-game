@@ -1,0 +1,8 @@
+/home/enea/game-projects/test-game1/.mono/temp/bin/ExportDebug/Test-game 1.dll
+/home/enea/game-projects/test-game1/.mono/temp/bin/ExportDebug/Test-game 1.pdb
+/home/enea/game-projects/test-game1/.mono/temp/obj/ExportDebug/Test-game 1.csprojAssemblyReference.cache
+/home/enea/game-projects/test-game1/.mono/temp/obj/ExportDebug/Test-game 1.AssemblyInfoInputs.cache
+/home/enea/game-projects/test-game1/.mono/temp/obj/ExportDebug/Test-game 1.AssemblyInfo.cs
+/home/enea/game-projects/test-game1/.mono/temp/obj/ExportDebug/Test-game 1.csproj.CoreCompileInputs.cache
+/home/enea/game-projects/test-game1/.mono/temp/obj/ExportDebug/Test-game 1.dll
+/home/enea/game-projects/test-game1/.mono/temp/obj/ExportDebug/Test-game 1.pdb
